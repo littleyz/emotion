@@ -1,0 +1,22 @@
+{
+  "表情": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/1.png!logo\">", "text": "微笑" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/2.png!logo\">", "text": "可爱" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/3.png!logo\">", "text": "太开心" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/4.png!logo\">", "text": "鼓掌" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/5.png!logo\">", "text": "可怜" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/6.png!logo\">", "text": "哈哈" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/7.png!logo\">", "text": "笑Cry" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/8.png!logo\">", "text": "汗" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/9.png!logo\">", "text": "失望" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/10.png!logo\">", "text": "悲伤" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/11.png!logo\">", "text": "害羞" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/12.png!logo\">", "text": "污" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/13.png!logo\">", "text": "色" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/14.png!logo\">", "text": "晕" },
+      { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/img/15.png!logo\">", "text": "费解" }
+    ]
+  }
+}
