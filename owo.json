@@ -1,0 +1,9 @@
+{
+  "表情": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e3/2018new_weixioa02_org.png\">", "text": "微笑" },
+      { "icon": "<img src=\"http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/2018new_keai_org.png\">", "text": "可爱" }
+    ]
+  }
+}
