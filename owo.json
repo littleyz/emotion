@@ -16,7 +16,19 @@
       { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/10/2018new_wu_org.png\">", "text": "污" },
       { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/2018new_huaxin_org.png\">", "text": "色" },
       { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2018new_yun_org.png\">", "text": "晕" },
-      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2018new_wenhao_org.png\">", "text": "费解" }
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2018new_wenhao_org.png\">", "text": "费解" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/43/2018new_jiyan_org.png\">", "text": "挤眼" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2018new_leimu_org.png\">", "text": "泪目" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2018new_nu_org.png\">", "text": "怒" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/2018new_weiqu_org.png\">", "text": "委屈" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/83/2018new_kuxiao_org.png\">", "text": "苦涩" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/2018new_qinqin_org.png\">", "text": "亲亲" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/3e/2018new_tianping_org.png\">", "text": "舔屏" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2d/2018new_xiaoerbuyu_org.png\">", "text": "笑而不语" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_bingbujiandan_org.png\">", "text": "并不简单" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a2/2018new_shuai_org.png\">", "text": "衰" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_cold_org.png\">", "text": "感冒" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2018new_xianhua_org.png\">", "text": "鲜花" }
     ]
   }
 }
