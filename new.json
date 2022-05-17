@@ -1,26 +1,46 @@
-  "Bilibili": {
+ {
+  "表情": {
     "type": "image",
     "container": [
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">", "text": "tv_亲亲" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">", "text": "tv_偷笑" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">", "text": "tv_再见" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">", "text": "tv_冷漠" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">", "text": "tv_发怒" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">", "text": "tv_发财" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">", "text": "tv_可爱" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">", "text": "tv_吐血" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">", "text": "tv_呆" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">", "text": "tv_呕吐" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">", "text": "tv_困" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">", "text": "tv_坏笑" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">", "text": "tv_大佬" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">", "text": "tv_大哭" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">", "text": "tv_委屈" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">", "text": "tv_害羞" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">", "text": "tv_尴尬" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">", "text": "tv_微笑" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">", "text": "tv_思考" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">", "text": "tv_惊吓" }
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e3/2018new_weixioa02_org.png\">", "text": "微笑" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/2018new_keai_org.png\">", "text": "可爱" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2018new_taikaixin_org.png\">", "text": "太开心" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2018new_guzhang_org.png\">", "text": "鼓掌" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/96/2018new_kelian_org.png\">", "text": "可怜" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/2018new_haha_org.png\">", "text": "哈哈" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2018new_xiaoku_thumb.png\">", "text": "笑Cry" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/28/2018new_han_org.png\">", "text": "汗" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_shiwang_org.png\">", "text": "失望" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ee/2018new_beishang_org.png\">", "text": "悲伤" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c1/2018new_haixiu_org.png\">", "text": "害羞" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/10/2018new_wu_org.png\">", "text": "污" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/2018new_huaxin_org.png\">", "text": "色" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2018new_yun_org.png\">", "text": "晕" },
+      { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2018new_wenhao_org.png\">", "text": "费解" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/43/2018new_jiyan_org.png\">", "text": "挤眼" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2018new_leimu_org.png\">", "text": "泪目" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2018new_nu_org.png\">", "text": "怒" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/2018new_weiqu_org.png\">", "text": "委屈" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/83/2018new_kuxiao_org.png\">", "text": "苦涩" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/2018new_qinqin_org.png\">", "text": "亲亲" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/3e/2018new_tianping_org.png\">", "text": "舔屏" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2d/2018new_xiaoerbuyu_org.png\">", "text": "笑而不语" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_bingbujiandan_org.png\">", "text": "并不简单" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a2/2018new_shuai_org.png\">", "text": "衰" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_cold_org.png\">", "text": "感冒" },
+      { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2018new_xianhua_org.png\">", "text": "鲜花" }
+    ]
+  },
+  "facebook": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"facebook/like.svg\">", "text": "like" },
+      { "icon": "<img src=\"facebook/haha.svg\">", "text": "haha" },
+      { "icon": "<img src=\"facebook/love.svg\">", "text": "love" },
+      { "icon": "<img src=\"facebook/sad.svg\">", "text": "sad" },
+      { "icon": "<img src=\"facebook/wow.svg\">", "text": "wow" },
+      { "icon": "<img src=\"facebook/ya.svg\">", "text": "ya" },
+      { "icon": "<img src=\"facebook/angry.svg\">", "text": "angry" }
     ]
   }
+ }
