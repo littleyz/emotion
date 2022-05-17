@@ -1,5 +1,5 @@
 {
-  "表情": {
+  "新浪微博": {
     "type": "image",
     "container": [
       { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e3/2018new_weixioa02_org.png\">", "text": "微笑" },
@@ -30,5 +30,17 @@
       { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_cold_org.png\">", "text": "感冒" },
       { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2018new_xianhua_org.png\">", "text": "鲜花" }
     ]
+  },
+  "Facebook": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/like.svg\">", "text": "like" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/haha.svg\">", "text": "haha" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/love.svg\">", "text": "love" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/sad.svg\">", "text": "sad" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/wow.svg\">", "text": "wow" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/ya.svg\">", "text": "ya" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/angry.svg\">", "text": "angry" }
+    ]
   }
-}
+ }
