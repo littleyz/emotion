@@ -34,13 +34,13 @@
   "facebook": {
     "type": "image",
     "container": [
-      { "icon": "<img src=\"facebook/like.svg\">", "text": "like" },
-      { "icon": "<img src=\"facebook/haha.svg\">", "text": "haha" },
-      { "icon": "<img src=\"facebook/love.svg\">", "text": "love" },
-      { "icon": "<img src=\"facebook/sad.svg\">", "text": "sad" },
-      { "icon": "<img src=\"facebook/wow.svg\">", "text": "wow" },
-      { "icon": "<img src=\"facebook/ya.svg\">", "text": "ya" },
-      { "icon": "<img src=\"facebook/angry.svg\">", "text": "angry" }
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/like.svg\">", "text": "like" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/haha.svg\">", "text": "haha" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/love.svg\">", "text": "love" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/sad.svg\">", "text": "sad" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/wow.svg\">", "text": "wow" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/ya.svg\">", "text": "ya" },
+      { "icon": "<img src=\"https://fastly.jsdelivr.net/gh/littleyz/emotion/facebook/angry.svg\">", "text": "angry" }
     ]
   }
  }
