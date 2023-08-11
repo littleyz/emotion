@@ -1,4 +1,41 @@
 {
+  "百度表情": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%AE%E7%AC%91%5D.png\">", "text": "微笑" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BC%80%E5%BF%83%5D.png\">", "text": "开心" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%9C%9F%E5%BE%85%5D.png\">", "text": "期待" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E7%AC%91%5D.png\">", "text": "大笑" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%BC%93%E6%8E%8C%5D.png\">", "text": "鼓掌" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%82%A0%E9%97%B2%5D.png\">", "text": "悠闲" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%AC%91%E5%93%AD%5D.png\">", "text": "笑哭" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%8D%E8%A6%81%E5%95%8A%5D.png\">", "text": "不要啊" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%95%8A%5D.png\">", "text": "啊" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%93%9F%5D.png\">", "text": "哟" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B1%97%5D.png\">", "text": "汗" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%8A%A0%E9%BC%BB%5D.png\">", "text": "抠鼻" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%93%BC%5D.png\">", "text": "哼" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%8F%91%E6%80%92%5D.png\">", "text": "发怒" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A7%94%E5%B1%88%5D.png\">", "text": "委屈" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%8D%E9%AB%98%E5%85%B4%5D.png\">", "text": "不高兴" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%9B%A7%5D.png\">", "text": "囧" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%83%8A%E5%93%AD%5D.png\">", "text": "惊哭" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%AD%5D.png\">", "text": "大哭" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B5%81%E6%B3%AA%5D.png\">", "text": "流泪" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%AE%B3%E7%BE%9E%5D.png\">", "text": "害羞" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BA%B2%E4%BA%B2%5D.png\">", "text": "亲亲" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%89%B2%5D.png\">", "text": "色" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%88%94%E5%B1%8F%5D.png\">", "text": "舔屏" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%97%E6%84%8F%5D.png\">", "text": "得意" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%96%91%E9%97%AE%5D.png\">", "text": "疑问" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%88%5D.png\">", "text": "大哈" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BA%8C%E5%93%88%5D.png\">", "text": "二哈" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%89%E5%93%88%5D.png\">", "text": "三哈" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%99%BD%E7%9C%BC%5D.png\">", "text": "白眼" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%98%B4%E9%99%A9%5D.png\">", "text": "阴险" },
+      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%99%95%5D.png\">", "text": "晕" }
+    ]
+  },
   "新浪微博": {
     "type": "image",
     "container": [
@@ -41,43 +78,6 @@
       { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/wow.svg\">", "text": "wow" },
       { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/ya.svg\">", "text": "ya" },
       { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/angry.svg\">", "text": "angry" }
-    ]
-  },
-   "百度表情": {
-    "type": "image",
-    "container": [
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%AE%E7%AC%91%5D.png\">", "text": "微笑" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BC%80%E5%BF%83%5D.png\">", "text": "开心" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%9C%9F%E5%BE%85%5D.png\">", "text": "期待" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E7%AC%91%5D.png\">", "text": "大笑" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%BC%93%E6%8E%8C%5D.png\">", "text": "鼓掌" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%82%A0%E9%97%B2%5D.png\">", "text": "悠闲" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%AC%91%E5%93%AD%5D.png\">", "text": "笑哭" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%8D%E8%A6%81%E5%95%8A%5D.png\">", "text": "不要啊" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%95%8A%5D.png\">", "text": "啊" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%93%9F%5D.png\">", "text": "哟" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B1%97%5D.png\">", "text": "汗" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%8A%A0%E9%BC%BB%5D.png\">", "text": "抠鼻" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%93%BC%5D.png\">", "text": "哼" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%8F%91%E6%80%92%5D.png\">", "text": "发怒" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A7%94%E5%B1%88%5D.png\">", "text": "委屈" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%8D%E9%AB%98%E5%85%B4%5D.png\">", "text": "不高兴" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%9B%A7%5D.png\">", "text": "囧" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%83%8A%E5%93%AD%5D.png\">", "text": "惊哭" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%AD%5D.png\">", "text": "大哭" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B5%81%E6%B3%AA%5D.png\">", "text": "流泪" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%AE%B3%E7%BE%9E%5D.png\">", "text": "害羞" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BA%B2%E4%BA%B2%5D.png\">", "text": "亲亲" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%89%B2%5D.png\">", "text": "色" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%88%94%E5%B1%8F%5D.png\">", "text": "舔屏" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%97%E6%84%8F%5D.png\">", "text": "得意" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%96%91%E9%97%AE%5D.png\">", "text": "疑问" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%88%5D.png\">", "text": "大哈" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BA%8C%E5%93%88%5D.png\">", "text": "二哈" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%89%E5%93%88%5D.png\">", "text": "三哈" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%99%BD%E7%9C%BC%5D.png\">", "text": "白眼" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%98%B4%E9%99%A9%5D.png\">", "text": "阴险" },
-      { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%99%95%5D.png\">", "text": "晕" }
     ]
   }
  }
