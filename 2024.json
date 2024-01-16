@@ -1,0 +1,9 @@
+{
+  "fontelico": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"/fontelico/emo-happy.svg\">", "text": "emo-happy" },
+      { "icon": "<img src=\"/fontelico/emo-happy.svg\">", "text": "emo-happy" }
+    ]
+  }
+ }
