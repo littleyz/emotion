@@ -1,0 +1,84 @@
+{
+    "百度表情": {
+      "type": "image",
+      "container": [
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%AE%E7%AC%91%5D.png\">", "text": "微笑" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BC%80%E5%BF%83%5D.png\">", "text": "开心" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%8A%B1%E6%8A%B1%5D.png\">", "text": "抱抱" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E7%AC%91%5D.png\">", "text": "大笑" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%BC%93%E6%8E%8C%5D.png\">", "text": "鼓掌" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%8F%A1%E6%89%8B%5D.png\">", "text": "握手" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%AC%91%E5%93%AD%5D.png\">", "text": "笑哭" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BD%9C%E6%8F%96%5D.png\">", "text": "作揖" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%B5%9E%E5%90%8C%5D.png\">", "text": "赞同" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5Bgood%5D.png\">", "text": "good" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B1%97%5D.png\">", "text": "汗" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%8A%A0%E9%BC%BB%5D.png\">", "text": "抠鼻" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%93%BC%5D.png\">", "text": "哼" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%8F%91%E6%80%92%5D.png\">", "text": "发怒" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A7%94%E5%B1%88%5D.png\">", "text": "委屈" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%8D%E9%AB%98%E5%85%B4%5D.png\">", "text": "不高兴" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%9B%A7%5D.png\">", "text": "囧" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%83%8A%E5%93%AD%5D.png\">", "text": "惊哭" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%AD%5D.png\">", "text": "大哭" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%B5%81%E6%B3%AA%5D.png\">", "text": "流泪" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%AE%B3%E7%BE%9E%5D.png\">", "text": "害羞" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BF%83%5D.png\">", "text": "心" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%89%B2%5D.png\">", "text": "色" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E8%88%94%E5%B1%8F%5D.png\">", "text": "舔屏" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%BE%97%E6%84%8F%5D.png\">", "text": "得意" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%96%91%E9%97%AE%5D.png\">", "text": "疑问" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E5%A4%A7%E5%93%88%5D.png\">", "text": "大哈" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%BA%8C%E5%93%88%5D.png\">", "text": "二哈" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E4%B8%89%E5%93%88%5D.png\">", "text": "三哈" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E7%99%BD%E7%9C%BC%5D.png\">", "text": "白眼" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E9%98%B4%E9%99%A9%5D.png\">", "text": "阴险" },
+        { "icon": "<img src=\"https://baidubox-emoji.cdn.bcebos.com/imgs/%5B%E6%99%95%5D.png\">", "text": "晕" }
+      ]
+    },
+    "新浪微博": {
+      "type": "image",
+      "container": [
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e3/2018new_weixioa02_org.png\">", "text": "微笑" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/09/2018new_keai_org.png\">", "text": "可爱" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2018new_taikaixin_org.png\">", "text": "太开心" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2018new_guzhang_org.png\">", "text": "鼓掌" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/96/2018new_kelian_org.png\">", "text": "可怜" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8f/2018new_haha_org.png\">", "text": "哈哈" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2018new_xiaoku_thumb.png\">", "text": "笑Cry" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/28/2018new_han_org.png\">", "text": "汗" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_shiwang_org.png\">", "text": "失望" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ee/2018new_beishang_org.png\">", "text": "悲伤" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c1/2018new_haixiu_org.png\">", "text": "害羞" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/10/2018new_wu_org.png\">", "text": "污" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/2018new_huaxin_org.png\">", "text": "色" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2018new_yun_org.png\">", "text": "晕" },
+        { "icon": "<img src=\"https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2018new_wenhao_org.png\">", "text": "费解" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/43/2018new_jiyan_org.png\">", "text": "挤眼" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2018new_leimu_org.png\">", "text": "泪目" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2018new_nu_org.png\">", "text": "怒" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/2018new_weiqu_org.png\">", "text": "委屈" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/83/2018new_kuxiao_org.png\">", "text": "苦涩" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2c/2018new_qinqin_org.png\">", "text": "亲亲" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/3e/2018new_tianping_org.png\">", "text": "舔屏" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2d/2018new_xiaoerbuyu_org.png\">", "text": "笑而不语" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/aa/2018new_bingbujiandan_org.png\">", "text": "并不简单" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a2/2018new_shuai_org.png\">", "text": "衰" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_cold_org.png\">", "text": "感冒" },
+        { "icon": "<img src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2018new_xianhua_org.png\">", "text": "鲜花" }
+      ]
+    },
+    "脸书表情": {
+      "type": "image",
+      "container": [
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/like.svg\">", "text": "like" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/haha.svg\">", "text": "haha" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/love.svg\">", "text": "love" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/sad.svg\">", "text": "sad" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/wow.svg\">", "text": "wow" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/ya.svg\">", "text": "ya" },
+        { "icon": "<img src=\"https://cdn.jiangyu.org/emotion/facebook/angry.svg\">", "text": "angry" }
+      ]
+    }
+   }
+  
